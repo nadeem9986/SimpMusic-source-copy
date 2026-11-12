@@ -13,6 +13,7 @@ A FOSS YouTube Music client for Android and Desktop with many features from<br>S
 <a href="https://www.openapk.net/simpmusic/com.maxrave.simpmusic/"><img src="https://www.openapk.net/images/openapk-badge.png" width="200"></a> 
 <a href="https://github.com/maxrave-dev/SimpMusic/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
 <br><sub>On vivo phones, install <code>SimpMusic-full-vivo-*.apk</code> from <a href="https://github.com/maxrave-dev/SimpMusic/releases">Releases</a> for Origin Island and the music widget. It installs as a separate app and can't sit next to Spotify.</sub>
+    <br><sub>On arm64 Android phones such as the Moto Edge 40 Neo, install the <code>SimpMusic-full-arm64-v8a-release.apk</code> asset (or <code>SimpMusic-foss-arm64-v8a-release.apk</code> for the FOSS build) from <a href="https://github.com/maxrave-dev/SimpMusic/releases">Releases</a> rather than the universal APK, so only the matching native libraries are installed.</sub>
 <h4>Nightly Build</h4>  
 <a href="https://www.simpmusic.org/download/nightly"><img src="https://github.com/maxrave-dev/SimpMusic/actions/workflows/android.yml/badge.svg"></a><br/> <a href="https://www.simpmusic.org/download/nightly"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a> 
 </div>  
